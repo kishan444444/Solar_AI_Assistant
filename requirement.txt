@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+numpy
+matplotlib
+requests
+Pillow
+transformers
+opencv-python-headless
